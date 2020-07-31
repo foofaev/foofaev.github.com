@@ -1,2 +1,1 @@
-# foofaev.github.com
-my cv
+# fufaev.github.io
